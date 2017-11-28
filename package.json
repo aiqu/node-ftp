@@ -1,0 +1,12 @@
+{
+  "name": "ftpserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ftp-srv": "^2.13.3"
+  }
+}
